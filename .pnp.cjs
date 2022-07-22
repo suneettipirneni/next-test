@@ -34,6 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@microsoft/api-extractor", "npm:7.28.6"],\
+            ["@microsoft/api-extractor-model", "npm:7.22.1"],\
             ["@types/node", "npm:18.0.6"],\
             ["@types/react", "npm:18.0.15"],\
             ["@types/react-dom", "npm:18.0.6"],\
@@ -2241,6 +2242,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["my-app", "workspace:."],\
             ["@microsoft/api-extractor", "npm:7.28.6"],\
+            ["@microsoft/api-extractor-model", "npm:7.22.1"],\
             ["@types/node", "npm:18.0.6"],\
             ["@types/react", "npm:18.0.15"],\
             ["@types/react-dom", "npm:18.0.6"],\

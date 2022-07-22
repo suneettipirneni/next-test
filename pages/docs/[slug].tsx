@@ -1,3 +1,5 @@
+import { ApiModel } from "@microsoft/api-extractor-model";
+
 export async function getStaticPaths() {
   return {
     paths: [],

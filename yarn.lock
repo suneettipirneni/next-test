@@ -59,7 +59,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@microsoft/api-extractor-model@npm:7.22.1":
+"@microsoft/api-extractor-model@npm:7.22.1, @microsoft/api-extractor-model@npm:^7.22.1":
   version: 7.22.1
   resolution: "@microsoft/api-extractor-model@npm:7.22.1"
   dependencies:
@@ -1783,6 +1783,7 @@ __metadata:
   resolution: "my-app@workspace:."
   dependencies:
     "@microsoft/api-extractor": ^7.28.6
+    "@microsoft/api-extractor-model": ^7.22.1
     "@types/node": 18.0.6
     "@types/react": 18.0.15
     "@types/react-dom": 18.0.6
